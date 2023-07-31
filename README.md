@@ -1,12 +1,12 @@
 # Amazon Free Shipping Marker
 
-![sample screenshot](./example.png)
-
 This is a userscript that helps you identify items on Amazon that are eligible for free shipping to Israel. It works by adding a border around the product variant images. The border color indicates the shipping eligibility:
 
 - Green border: The item is eligible for free shipping to Israel.
 - Red border: The item is not eligible for free shipping to Israel.
 - Grey border: The shipping information for the item could not be found.
+
+![sample screenshot](./example.png)
 
 ## Installation
 
