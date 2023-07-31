@@ -1,5 +1,7 @@
 # Amazon Free Shipping Marker
 
+![sample screenshot](./example.png)
+
 This is a userscript that helps you identify items on Amazon that are eligible for free shipping to Israel. It works by adding a border around the product variant images. The border color indicates the shipping eligibility:
 
 - Green border: The item is eligible for free shipping to Israel.
@@ -10,7 +12,7 @@ This is a userscript that helps you identify items on Amazon that are eligible f
 
 1. Install the Greasemonkey extension for Firefox. You can download it from the [Mozilla Add-ons website](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/).
 2. Click on the Greasemonkey icon in your browser toolbar and select "New User Script...".
-3. Copy and paste the script from `AmazonFreeShippingMarker.user.js` into the editor.
+3. Copy and paste the script from `script.js` into the editor.
 4. Save the script.
 
 ## Usage
