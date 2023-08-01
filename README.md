@@ -10,10 +10,9 @@ This is a userscript that helps you identify items on Amazon that are eligible f
 
 ## Installation
 
-1. Install the Greasemonkey extension for Firefox. You can download it from the [Mozilla Add-ons website](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/).
-2. Click on the Greasemonkey icon in your browser toolbar and select "New User Script...".
-3. Copy and paste the script from `script.js` into the editor.
-4. Save the script.
+1. Install the [Tampermonkey](https://www.tampermonkey.net/) extension for Chrome or [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) extension for Firefox.
+2. Open [amazon-free-shipping-marker.user.js](https://raw.github.com/arbiv/amazon-free-shipping-marker/blob/main/amazon-free-shipping-marker.user.js).
+3. The installation screen will open automatically. Click "Install" to add the script.
 
 ## Usage
 
@@ -21,7 +20,7 @@ Once the script is installed, it will automatically run whenever you visit a pro
 
 ## Compatibility
 
-This script has been tested with Greasemonkey on Firefox. It may work with other userscript managers and browsers, but this is not guaranteed.
+The script has been tested with the Greasemonkey extension on Firefox and the Tampermonkey extension on Chrome.
 
 ## License
 
